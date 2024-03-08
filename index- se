@@ -1,0 +1,11 @@
+Se o inventário estiver cheio, esvazie 
+Se não, faça nada 
+
+Se houver uma peça repetida entre as outras, encontre 
+Se não, faça nada 
+
+Se o personagem estiver com a vida marcada em 1/10, use o item de vida
+Se não, faça nada 
+
+Se a palavra "escola" for encontrada na tela, atribua a palavra "Yvone" 
+Se não, faça nada
